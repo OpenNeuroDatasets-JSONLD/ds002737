@@ -1,3 +1,5 @@
+OpenNeuro curator note: This dataset was previously accessible at ds001544. The dataset was reuploaded due to privacy considerations. 
+
 Introduction
 ------------
 This dataset contains task fMRI runs of one person, with either regular head packing (acq-cf0), a very tight-fitting Caseforge (https://caseforge.co/, thanks!) headcase (acq-cf1), or a properly-fitting Caseforge headcase (acq-cf2). The participant is comfortable with fMRI and able to remain quite still (little actual motion), but has prominent respiratory oscillations (apparent motion).
